@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+.only-image{
+    width: 75%;
+    float: right;
+    padding-top: 10%;
+}
+
+.lighter-text{
+    font-family: 'Nunito', sans-serif;
+    font-weight: lighter;
+    color: gray;
+}
+
+h2{
+    margin-bottom: -20px;
+}
+
+h1{
+    margin-bottom: -20px;
+}
